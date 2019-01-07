@@ -1,0 +1,2 @@
+alert("hello, world!);
+document.writeln("Hello, javascript");
