@@ -10,8 +10,8 @@ class App extends Component {
     render(){
         return(
             <div>
-                <Navigation LogoTitle="Felix Ordonez"/>
-                <Header />
+                <Navigation LogoTitle="React Project"/>
+                <Header title="Stylish Portfolio" button="Find out more"/>
             </div>
         );
     }
